@@ -3,6 +3,7 @@ JOB Preparation
 
 ## Topics
 
-- [Sliding Window](./sliding-window/)
+- [SLIDING WINDOW](./SLIDING WINDOW/)
 - [Two Pointers](./two-pointers/)
 - [Binary Search](./binary-search/)
+
